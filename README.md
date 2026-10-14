@@ -76,4 +76,4 @@ The current landing page presents audio upload, interview debriefs, a Story Bank
 
 The prototype brings record management, progress interpretation, and error recovery into one surface. Its effectiveness still needs validation. A next research round could measure whether candidates can locate a specific interview, distinguish a processing failure from a hiring outcome, and identify a useful next practice action. No completion-rate, retention, or interview-success improvement is claimed here.
 
-**中文简介：** 我参与了 Candid 初期 History 板块的设计，重点探索面试记录筛选、公司与岗位下的多轮面试分组、能力趋势展示及处理失败后的重传路径。此仓库仅展示这部分设计贡献，不代表我开发了完整产品。
+**中文简介：** 我参与了 Candid 初期 History 板块的设计，重点探索面试记录筛选、公司与岗位下的多轮面试分组、能力趋势展示及处理失败后的重传路径。此仓库仅展示这部分设计贡献。
